@@ -3,10 +3,10 @@ package script;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class TEST003 {
+public class test004 {
 	@Test
-	public void tcs02(){
-		Reporter.log("hello harish", true);
+	public void tcs04(){
+		Reporter.log("hello rishi", true);
 	}
 
 }
